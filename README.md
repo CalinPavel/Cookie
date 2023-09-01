@@ -73,6 +73,3 @@
     }
 
     Cookie respone: theme=true; Path=/
-
-
-# Cookie
